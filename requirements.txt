@@ -1,0 +1,11 @@
+flask
+pandas
+scikit-learn
+joblib
+streamlit
+requests
+imbalanced-learn
+seaborn
+numpy
+openpyxl
+gunicorn
